@@ -1,0 +1,117 @@
+---
+title: "Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas"
+subtitle: "<br>Palestra online – DEI/UNILAB<br>07/04/2026"
+date: today
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    footer: "Eric Brasil | <a href='https://ericbrasil.com.br/contact/'>Contato</a> | DEI/UNILAB"
+    logo: https://omekas.im.ufrrj.br/files/original/aa99fe174fd6f97dd42ee78a359a46428b9997be.png
+author:
+  - name: Eric Brasil
+    email: profericbrasil@gmail.com
+    orcid: 0000-0001-5067-8475
+    affiliation: UNILAB • PPGIHD/UFRRJ
+toc: false
+---
+
+## Humanidades Digitais {.center}
+
+Como a tecnologia está transformando as Ciências Humanas
+
+---
+
+## De onde partimos {.center}
+
+- Uso de computadores nas Ciências Humanas
+- Busa / linguística
+- Séries, economia e cliometria
+- Consolidação das Humanidades Digitais
+
+---
+
+## Tensões e problemas {.center}
+
+- Redução de humanos a dados?
+- Vieses e racismo algorítmico
+- Técnica sobrepondo teoria?
+- IA intensifica essas questões
+
+---
+
+## O que muda de fato {.center}
+
+- Dados digitais e “traces”
+- Mais capacidade de armazenamento e processamento
+- Novas formas de coletar e analisar
+- Não é só escala → novas perguntas
+- Impacto epistemológico
+
+---
+
+## Outra forma de trabalhar {.center}
+
+- Interdisciplinar
+- Colaborativa e aberta
+- Exige formação técnica
+- Amplia a imaginação científica
+
+---
+
+## Humanidades e Inovação {.center}
+
+- Inovação não é apenas tecnologia
+- É também problema, método e interpretação
+- As Ciências Humanas já produzem inovação
+- Tecnologias sociais, ensino, acervos e dados
+- Papel central na reflexão crítica sobre tecnologia
+
+---
+
+## Exemplos {.center}
+
+- Arquivos e patrimônio cultural (direito e cidadania)
+- Dados em larga escala e tempo real
+- Princípios FAIR
+- Difusão e formação
+
+---
+
+## E a IA? {.center}
+
+- Acelera mudanças já em curso
+- Potencializa problemas
+- Também amplia possibilidades
+- Disputa por espaços de decisão
+- Exige domínio técnico + teórico + político
+
+---
+
+## Em síntese {.center}
+
+Não são só ferramentas.
+
+São transformações nas formas de produzir conhecimento nas Ciências Humanas.
+
+---
+
+## Social-RAG {.center}
+
+- Sistema para análise de grandes volumes de dados (Telegram)
+- Integra LLMs com recuperação de informação (RAG)
+- Permite análises qualitativas em escala
+- Mantém rastreabilidade e controle do pesquisador
+- Exemplo de inovação em Humanidades Digitais
+
+---
+
+## Obrigado {.center}
+
+Eric Brasil  
+UNILAB • PPGIHD/UFRRJ • LABHDUFBA 
