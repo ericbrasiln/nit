@@ -41,18 +41,21 @@ quarto render
 
 ---
 
-👤 Autor
+## Autor
 
 Eric Brasil
-Professor – UNILAB
+
+UNILAB
+
 PPGIHD/UFRRJ
+
 LABHDUFBA
 
 🔗 https://ericbrasil.com.br
 
 ---
 
-## 📄 Licença
+## Licença
 
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
