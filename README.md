@@ -36,6 +36,7 @@ Abra o arquivo `.html` gerado no navegador.
 ### Opção 2 — Renderizar com Quarto
 ```bash
 quarto render
+```
 
 
 ---
