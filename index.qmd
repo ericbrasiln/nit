@@ -27,10 +27,22 @@ toc: false
 
 ---
 
-## Nota metodológica {.center}
+## Uso de IA e Licença {.center}
 
 ::: {style="font-size: 0.8em; text-align: left;"}
 A formatação, revisão e criação do QR code desta apresentação foram feitas com auxílio do **Claude Code**, utilizando o modelo **Claude Sonnet 4.6**, em **7 de abril de 2026**.
+
+---
+
+[![](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+Esta apresentação está licenciada sob [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+[![](https://zenodo.org/badge/DOI/EM_BREVE)](https://doi.org/INSERIR_DOI_AQUI)
+
+Cite como: Brasil, Eric. *Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas*. Palestra. Salvador, Bahia, 7 abr. 2026. Disponível em: <ericbrasil.com.br/nit> DOI: [EM BREVE](https://doi.org/INSERIR_DOI_AQUI)
 :::
 
 ---
