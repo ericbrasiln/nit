@@ -159,7 +159,32 @@ São transformações nas formas de produzir conhecimento nas Ciências Humanas.
 
 ---
 
-## [Rede de LABHDs](labhdufba.github.io) {.center}
+## Referências e leituras {.center}
+
+::: {style="font-size: 0.85em;"}
+**Referências desta apresentação**
+
+[Clique aqui para acessar a lista de referências.](https://ericbrasil.com.br/nit/biblio)
+
+---
+
+:::columns
+:::column 
+**Biblioteca Zotero — História Digital**
+
+Organizada pelas bolsistas PIBIC/UNILAB **Ana Carolina Veloso** e **Priscila Valverde**
+
+[Clique aqui para acessar a biblioteca aqui.](https://www.zotero.org/groups/2216280/histria_digital/library)
+:::
+:::column
+![](https://www.zotero.org/support/_media/logo/zotero_256x256x32.png)
+:::
+:::
+:::
+
+---
+
+## [Rede de LABHDs](https://labhdufba.github.io) {.center}
 
 :::columns
 :::column
