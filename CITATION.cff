@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Se você usar ou referenciar esta apresentação, por favor cite conforme abaixo."
+type: presentation
+title: "Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas"
+authors:
+  - family-names: Brasil
+    given-names: Eric
+    orcid: https://orcid.org/0000-0001-5067-8475
+    email: profericbrasil@unilab.edu.br
+    affiliation: "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB) • PPGIHD/UFRRJ • LABHDUFBA"
+date-released: 2026-04-07
+url: "https://ericbrasil.com.br/nit"
+repository-code: "https://github.com/ericbrasiln/nit"
+license: CC-BY-4.0
+abstract: >
+  Palestra sobre como a tecnologia está transformando as Ciências Humanas,
+  discutindo a história das Humanidades Digitais, suas tensões epistemológicas,
+  a questão da inovação nas ciências humanas, o papel da IA e exemplos
+  concretos de pesquisa com dados digitais, incluindo o projeto Social-RAG.
+keywords:
+  - humanidades digitais
+  - história digital
+  - inteligência artificial
+  - hermenêutica digital
+  - métodos digitais
+  - inovação
+  - ciências humanas
