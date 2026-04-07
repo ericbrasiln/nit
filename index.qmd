@@ -1,6 +1,6 @@
 ---
 title: "Humanidades Digitais:"
-subtitle: "como a tecnologia está transformando as Ciências Humanas<br>Palestra online – DEI/UNILAB<br>"
+subtitle: "como a tecnologia está transformando as Ciências Humanas"
 date: today
 date-format: full
 lang: pt-br
@@ -19,69 +19,121 @@ author:
 toc: false
 ---
 
+## Slides e materiais {.center}
+
+![](qrcode_nit.png){ width=280px }
+
+[ericbrasil.com.br/nit](https://ericbrasil.com.br/nit)
+
+---
+
+## Nota metodológica {.center}
+
+::: {style="font-size: 0.8em; text-align: left;"}
+A formatação, revisão e criação do QR code desta apresentação foram feitas com auxílio do **Claude Code**, utilizando o modelo **Claude Sonnet 4.6**, em **7 de abril de 2026**.
+:::
+
+---
+
 ## De onde partimos {.center}
 
-- Uso de computadores nas Ciências Humanas
-- Busa / linguística
-- Séries, economia e cliometria
-- Consolidação das Humanidades Digitais
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BnZ3NvMmM1MGg4a3h2cmlibnA4ams3bzh2a2ozejVoa2Z0ZmFmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QE9ZZz22Bwc3Y4M/giphy.gif)
+
+---
+
+## De onde partimos {.center}
+
+- Relação longa: computadores e Ciências Humanas
+- 1ª vaga: Busa, cliometria — historiadores que programavam
+- 2ª vaga: programas comerciais e "domesticação" da técnica
+- 3ª vaga: HD, *distant reading*, Python
+- 4ª vaga: Vibe coding?
 
 ---
 
 ## Tensões e problemas {.center}
 
-- Redução de humanos a dados?
-- Vieses e racismo algorítmico
-- Técnica sobrepondo teoria?
-- IA intensifica essas questões
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlzYWM5N3RqbXRxaWRyYThwYW1za3RzcmNheTNveDRtejhocm93MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1UH5LwVuWucM/giphy.gif)
+
+---
+
+## Tensões e problemas {.center}
+
+- Virada das CH (1980/90): experiência, agência, sujeitos excluídos → onde ficam num mundo de dados digitais? 
+- Dados como sinônimo de pesquisa → retorno ao positivismo?
+- Eurocentrismo: recursos, acervos e infraestrutura concentrados
+- Técnica como fim em si + IA amplifica tudo isso
 
 ---
 
 ## O que muda de fato {.center}
 
-- Dados digitais e “traces”
-- Mais capacidade de armazenamento e processamento
-- Novas formas de coletar e analisar
-- Não é só escala → novas perguntas
-- Impacto epistemológico
+![](https://raw.githubusercontent.com/ericbrasiln/ferramentas_digitais_UNILAB/master/docs/gifs/math.gif)
+
+---
+
+## O que muda de fato {.center}
+
+- Volume inédito: dados digitalizados, nato-digitais e rastros involuntários
+- Capacidade de armazenamento e processamento sem precedentes
+- Métodos além da escala humana individual
+- Não é só velocidade → novas perguntas 
+- Impacto epistemológico real
 
 ---
 
 ## Outra forma de trabalhar {.center}
 
-- Interdisciplinar
-- Colaborativa e aberta
-- Exige formação técnica
-- Amplia a imaginação científica
+![](https://i.giphy.com/media/aNqEFrYVnsS52/giphy.webp)
+
+---
+
+## Outra forma de trabalhar {.center}
+
+- Hermenêutica digital: mediação das ferramentas é objeto crítico
+- *Thinkering*: experimentar + pensar criticamente, ao mesmo tempo
+- Zona de intercâmbio: interdisciplinar e colaborativa
+- Exige formação técnica — a serviço da imaginação
 
 ---
 
 ## Humanidades e Inovação {.center}
 
-- Inovação não é apenas tecnologia
-- É também problema, método e interpretação
-- As Ciências Humanas já produzem inovação
-- Tecnologias sociais, ensino, acervos e dados
-- Papel central na reflexão crítica sobre tecnologia
+![](https://i.giphy.com/l0G18BkChcRRctMZ2.webp)
 
 ---
 
-## Exemplos {.center}
+## Humanidades e Inovação {.center}
 
-- Arquivos e patrimônio cultural (direito e cidadania)
-- Dados em larga escala e tempo real
-- Princípios FAIR
-- Difusão e formação
+- Inovação ≠ tecnologia (no sentido de novidade técnica)
+- CH já produzem inovação: tecnologias sociais, acervos, dados
+- Quem define o que conta como inovação? 
+- Papel central na reflexão crítica sobre tecnologia
 
 ---
 
 ## E a IA? {.center}
 
-- Acelera mudanças já em curso
-- Potencializa problemas
-- Também amplia possibilidades
-- Disputa por espaços de decisão
+![](https://ericbrasil.com.br/cclhm00114/aulas/assets/bladerunner.gif)
+
+---
+
+## E a IA? {.center}
+
+- Acelera mudanças já em curso + potencializa problemas existentes
+- Vieses estruturais, opacidade, pressão pela velocidade
+- Disputa por espaços de decisão sobre vidas humanas
+- Também amplia possibilidades — com critério e controle
 - Exige domínio técnico + teórico + político
+
+---
+
+## Social-RAG {.center}
+
+- Sistema para análise de grandes volumes de dados (Telegram)
+- Integra LLMs com recuperação de informação (RAG)
+- Modelo responde a partir do corpus real → rastreabilidade
+- Análise qualitativa em escala com controle do pesquisador
 
 ---
 
@@ -93,17 +145,51 @@ São transformações nas formas de produzir conhecimento nas Ciências Humanas.
 
 ---
 
-## Social-RAG {.center}
+## [Rede de LABHDs](labhdufba.github.io) {.center}
 
-- Sistema para análise de grandes volumes de dados (Telegram)
-- Integra LLMs com recuperação de informação (RAG)
-- Permite análises qualitativas em escala
-- Mantém rastreabilidade e controle do pesquisador
-- Exemplo de inovação em Humanidades Digitais
+:::columns
+:::column
+![](https://raw.githubusercontent.com/ericbrasiln/hdan/refs/heads/main/imgs/LABHDUFBA.png){ width=200px }
+
+![](https://raw.githubusercontent.com/ericbrasiln/hdan/refs/heads/main/imgs/LABHDUFRJ.png){ width=200px }
+:::
+:::column
+
+![](https://raw.githubusercontent.com/ericbrasiln/hdan/refs/heads/main/imgs/LABHDUFSC.png){ width=200px }
+
+![](https://raw.githubusercontent.com/ericbrasiln/hdan/refs/heads/main/imgs/LABHDUFOP_no_bg.png){ width=200px }
+:::
+::::
 
 ---
 
-## Obrigado {.center}
+## The Programming Historian {.center}
 
-Eric Brasil  
-UNILAB • PPGIHD/UFRRJ • LABHDUFBA 
+![](https://raw.githubusercontent.com/programminghistorian/jekyll/refs/heads/gh-pages/images/logos/ph-banner-with-drawing-and-url.png){ width=300px }
+
+- Site: [https://programminghistorian.org/pt/](https://programminghistorian.org/pt/) 
+- Github: [https://github.com/programminghistorian](https://github.com/programminghistorian)
+
+---
+
+## Contatos e redes {.center}
+
+- Email: [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)
+
+[Orcid](https://orcid.org/0000-0001-5067-8475) • [Lattes](http://lattes.cnpq.br/6853705640900524) • [Site pessoal](https://ericbrasil.com.br) • [LinkedIn](https://www.linkedin.com/in/ericbrasiln/) • [Github](https://github.com/ericbrasiln/)
+
+---
+
+## Obrigado, gente! {.center}
+
+:::columns
+:::column
+Agradecimentos especiais:
+
+À toda equipe da PROPPGI e CTI, especialmente ao Patrício (DEI) que me convidou para essa fala e ao Fernando que auxiliou hoje com a parte técnica do nosso encontro.
+:::
+:::column
+
+![](https://media1.giphy.com/media/3o6wNIV9FP28JIleyk/giphy.gif?cid=790b761122702fc03784413d1e84fbe31a5613b955b9bf24&rid=giphy.gif&ct=g)
+:::
+::::
