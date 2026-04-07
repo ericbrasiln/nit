@@ -1,30 +1,22 @@
 ---
-title: "Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas"
-subtitle: "<br>Palestra online – DEI/UNILAB<br>07/04/2026"
+title: "Humanidades Digitais:"
+subtitle: "como a tecnologia está transformando as Ciências Humanas<br>Palestra online – DEI/UNILAB<br>"
 date: today
 date-format: full
 lang: pt-br
 format:
   revealjs:
-    theme: [default, custom.scss]
+    theme: serif #[default, custom.scss]
     slide-number: true
     incremental: false
-    chalkboard:
-      buttons: true
-    footer: "Eric Brasil | <a href='https://ericbrasil.com.br/contact/'>Contato</a> | DEI/UNILAB"
-    logo: https://omekas.im.ufrrj.br/files/original/aa99fe174fd6f97dd42ee78a359a46428b9997be.png
+    footer: "Eric Brasil | <a href='https://ericbrasil.com.br/contact/'>Contato</a>"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0076/main/imgs/banner_logos_hist.png
 author:
   - name: Eric Brasil
-    email: profericbrasil@gmail.com
+    email: profericbrasil@unilab.edu.br
     orcid: 0000-0001-5067-8475
-    affiliation: UNILAB • PPGIHD/UFRRJ
+    affiliation: UNILAB • PPGIHD/UFRRJ • LABHDUFBA
 toc: false
----
-
-## Humanidades Digitais {.center}
-
-Como a tecnologia está transformando as Ciências Humanas
-
 ---
 
 ## De onde partimos {.center}
