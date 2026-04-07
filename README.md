@@ -1,5 +1,7 @@
 # Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas
 
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.19457751.svg)](https://doi.org/10.5281/zenodo.19457751)
+
 Slides da palestra apresentada na **Divisão de Empreendedorismo e Incubação de Empresas (DEI/UNILAB)**.
 
 📅 Data: 07 de abril de 2026  
