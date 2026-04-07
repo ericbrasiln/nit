@@ -1,0 +1,89 @@
+---
+title: "Referências bibliográficas"
+subtitle: "Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas"
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+    affiliation: UNILAB • PPGIHD/UFRRJ • LABHDUFBA
+date: 2026-04-07
+date-format: "D [de] MMMM [de] YYYY"
+lang: pt-br
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Sumário"
+    number-sections: false
+    smooth-scroll: true
+    self-contained: true
+---
+
+Lista das referências bibliográficas utilizadas na palestra **"Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas"**, apresentada no NIT/UNILAB em 7 de abril de 2026. Formatação segundo ABNT NBR 6023:2018.
+
+---
+
+## Livros
+
+DRUCKER, Johanna. **The digital humanities coursebook**: an introduction to digital methods for research and scholarship. Abingdon; New York: Routledge/Taylor & Francis, 2021.
+
+---
+
+SCHWANDT, Silke (ed.). **Digital methods in the humanities**: challenges, ideas, perspectives. Bielefeld: transcript; Bielefeld University Press, 2021. (Digital Humanities Research, v. 1).
+
+---
+
+WYMER, Kathryn C. **Introduction to digital humanities**: enhancing scholarship with the use of technology. New York: Routledge/Taylor & Francis Group, 2021. (Routledge Focus on Literature).
+
+---
+
+## Capítulos de livro
+
+FICKERS, Andreas; TATARINOV, Juliane; VAN DER HEIJDEN, Tim. Digital history and hermeneutics — between theory and practice: an introduction. In: FICKERS, Andreas; TATARINOV, Juliane; VAN DER HEIJDEN, Tim (ed.). **Digital history and hermeneutics**: between theory and practice. Berlin: De Gruyter, 2022.
+
+---
+
+RÖHLE, Theo; RIEDER, Bernhard. Digital methods: five challenges. In: BERRY, David M. (ed.). **Understanding digital humanities**. London: Palgrave Macmillan UK, 2012. p. 67-84.
+
+---
+
+## Artigos em periódicos
+
+CAMPOS, Alzira Lobo de Arruda; GOMES, Álvaro Cardoso; GUARANHA, Manoel. Fronteiras do conhecimento e inovação nas Ciências Humanas. **Cadernos de Estudos Culturais**, Campo Grande, v. 1, p. 31-49, jan./jun. 2021.
+
+---
+
+DALBELLO, Marija. A genealogy of digital humanities. **Journal of Documentation**, London, v. 67, n. 3, p. 480-506, abr. 2011. DOI: 10.1108/00220411111124550.
+
+---
+
+GIL, Tiago. Entre teoria, técnica e imaginação: consumo e produção de motores de busca por historiadores, através do caso do projeto "Oxossi". **Acervo**, Rio de Janeiro, v. 37, n. 3, p. 1-20, set./dez. 2024.
+
+---
+
+MORGENSTERN, Juliane Marschall; CENCI, Marcio Paulo. A inovação tecnológica e a formação nas Humanidades. **Thaumazein**, Santa Maria, v. 13, n. 26, p. 15-24, 2021. DOI: 10.37782/thaumazein.v13i26.3741.
+
+---
+
+ROMELE, Alberto; SEVERO, Marta; FURIA, Paolo. Digital hermeneutics: from interpreting with machines to interpretational machines. **AI & Society**: knowledge, culture and communication. Springer Verlag, 2018. (no prelo). DOI: 10.1007/s00146-018-0856-2.
+
+---
+
+ZAAGSMA, G. On digital history. **Bijdragen en Mededelingen Betreffende de Geschiedenis der Nederlanden**, v. 128, n. 4, p. 3-29, 2013. DOI: 10.18352/bmgn-lchr.9344.
+
+---
+
+## Teses e dissertações
+
+LUCCHESI, Anita. **For a new hermeneutics of practice in digital public history**: thinkering with memorecord.uni.lu. 2020. Tese (Doutorado) — University of Luxembourg, Luxembourg, 2020.
+
+---
+
+## Artigos em jornal
+
+RIBEIRO, Gustavo Lins. Desenvolvimento e ciências humanas. **Valor Econômico**, São Paulo, 28-30 jun. 2013, p. 13.
+
+---
+
+## Sobre a apresentação
+
+BRASIL, Eric. **Humanidades Digitais: como a tecnologia está transformando as Ciências Humanas**. Palestra. Salvador, Bahia, 7 abr. 2026. Disponível em: <https://ericbrasil.com.br/nit>. DOI: 10.5281/zenodo.19457751.
